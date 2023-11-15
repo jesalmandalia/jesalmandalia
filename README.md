@@ -6,7 +6,7 @@
 
 🌌 Also a Particle Physics PhD
 
-🔍 Researched high-mass W Bosons using the ATLAS detector at CERN.
+🔍 Researched W Bosons using ATLAS
 
 ⚡ Fun fact: CERN's Large Hadron Collider (LHC) detectors collide particles 1 billion times/second, churning out a whopping petabyte of data every second! 🤯
 
