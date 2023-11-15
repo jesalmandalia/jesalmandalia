@@ -1,4 +1,12 @@
-### Hi there 👋
+### 👋 Hi there! I'm Jesal ⭐
+
+🌌 Particle Physics PhD researching high-mass W Bosons at CERN's ATLAS detector.
+
+⚡ Fun fact: CERN's Large Hadron Collider (LHC) detectors collide particles 1 billion times/second, churning out a whopping petabyte of data every second! 🤯
+
+🚀 Currently transitioning into the captivating realm of data as an AiCore data trainee! 
+
+🛠️ Excited to unravel insights and engineer solutions! 
 
 <!--
 **jesalmandalia/jesalmandalia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
