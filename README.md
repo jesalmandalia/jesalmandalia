@@ -4,11 +4,11 @@
 
 🛠️ Excited to use data to build a better future
 
-🌌 Also a Particle Physics PhD
+🌌 Particle Physics PhD
 
 🔍 Researched W Bosons using ATLAS
 
-⚡ Fun fact: CERN's Large Hadron Collider (LHC) detectors collide particles 1 billion times/second, churning out a whopping petabyte of data every second! 🤯
+<sup>⚡ Fun fact: CERN's LHC collides particles 1 billion times/second, yielding a petabyte of data every second! 🤯</sup>
 
 <!--
 **jesalmandalia/jesalmandalia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
