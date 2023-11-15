@@ -1,10 +1,12 @@
 ### 👋 Hi there! I'm Jesal ⭐
 
-🌌 Particle Physics PhD researching high-mass W Bosons at CERN's ATLAS detector.
+🚀 Currently an AiCore data trainee
 
-🚀 Currently transitioning into the captivating realm of data as an AiCore data trainee! 
+🛠️ Excited to unravel insights and engineer solutions
 
-🛠️ Excited to unravel insights and engineer solutions! 
+🌌 Particle Physics PhD
+
+🔍 Researched high-mass W Bosons using the ATLAS detector at CERN.
 
 ⚡ Fun fact: CERN's Large Hadron Collider (LHC) detectors collide particles 1 billion times/second, churning out a whopping petabyte of data every second! 🤯
 
