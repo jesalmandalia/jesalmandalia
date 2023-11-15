@@ -4,7 +4,7 @@
 
 🛠️ Excited to unravel insights and engineer solutions
 
-🌌 Particle Physics PhD
+🌌 Also a Particle Physics PhD
 
 🔍 Researched high-mass W Bosons using the ATLAS detector at CERN.
 
