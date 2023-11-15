@@ -2,7 +2,7 @@
 
 🚀 Currently an AiCore data trainee
 
-🛠️ Excited to unravel insights and engineer solutions
+🛠️ Excited to use data to build a better future
 
 🌌 Also a Particle Physics PhD
 
