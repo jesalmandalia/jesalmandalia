@@ -1,12 +1,10 @@
 ### 👋 Hi there! I'm Jesal ⭐
 
-🚀 Currently an AiCore data trainee
-
-🛠️ Excited to use data to build a better future
-
 🌌 Particle Physics PhD
 
-🔍 Research on W Bosons at the ATLAS detector
+🚀 AiCore data engineering graduate
+
+🛠️ Excited to use data to gain valuable insights
 
 <sup>⚡ Fun fact: CERN's LHC collides particles 1 billion times/second, yielding a petabyte of data every second! 🤯</sup>
 
