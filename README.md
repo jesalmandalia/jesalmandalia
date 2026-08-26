@@ -2,8 +2,6 @@
 
 🌌 Particle Physics PhD
 
-🚀 AiCore data engineering graduate
-
 🛠️ Ready for the next challenge!
 
 <sup>⚡ Fun fact: CERN's LHC collides particles 1 billion times/second, yielding a petabyte of data every second! 🤯</sup>
